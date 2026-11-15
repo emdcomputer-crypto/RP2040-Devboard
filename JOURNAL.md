@@ -6,7 +6,7 @@
 > [!NOTE]
 > This devlog is mirrored from [Half Life](https://halflife.hackclub.com) ([open the project](https://halflife.hackclub.com/projects/h3j2xfwijczb5ai2248rofqq)). Editing it here will not change the platform's copy, and the next sync overwrites this file.
 
-> Making my own RP2040 Devboard following the guide
+> Making my own RP2040 Devboard following the guide designed using kicad and produced with jlcpcb parts.
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
