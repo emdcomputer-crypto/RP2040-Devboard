@@ -2,11 +2,14 @@
 
 This is my custom RP2040 devboard for Hack Club Half Life week 5. I followed the guided devboard project and made my schematic and PCB in KiCad. The board has USB-C, an RP2040, flash memory, a 12 MHz crystal, an LDO and headers to get to the GPIO pins.
 
-![JLCPCB part selection for the board](Pictures/1.png)
+![JLCPCB part selection for the board](<img width="1916" height="929" alt="1" src="https://github.com/user-attachments/assets/b21a2a65-0c6e-4e79-b7ff-fa998fd5c0fd" />
+)
 
-![The KiCad schematic](Pictures/11.png)
+![The KiCad schematic](<img width="1205" height="856" alt="11" src="https://github.com/user-attachments/assets/b4fd1351-585d-419d-bcc5-202c9e839537" />
+)
 
-![The routed PCB in KiCad](Pictures/31.png)
+![The routed PCB in KiCad](<img width="1919" height="1025" alt="31" src="https://github.com/user-attachments/assets/f7667b95-8ae9-4330-85b6-8989ad95e70d" />
+)
 
 ## How it works
 
