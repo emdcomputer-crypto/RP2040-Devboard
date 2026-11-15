@@ -23,7 +23,7 @@ The PCB was the hardest part for me because there wasnt much space and the trace
 
 ## Bill of materials
 
-The full parts list is in [BOM.csv](BOM.csv). My JLCPCB estimate was:
+The full parts list is in the picture above but you don't need to copy it as i placed all of them in the BOM file for jlcpcb. My JLCPCB estimate was:
 
 | Item | Cost |
 | --- | ---: |
