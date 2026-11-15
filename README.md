@@ -31,7 +31,6 @@ The full parts list is in the picture above but you don't need to copy it as i p
 | Estimated shipping and tax | $55.89 |
 | Total | $114.17 |
 
-This was $14.17 over the $100 Tier 3 funding amount.
 
 ## Project files
 
